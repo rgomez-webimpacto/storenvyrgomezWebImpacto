@@ -36,6 +36,9 @@ upload/
 admin698pc91oq/
 
 app/
+pdf*
+src*
+src/PrestaShopBundle
 
 
 
